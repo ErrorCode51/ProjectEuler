@@ -121,15 +121,3 @@ with open('ProblemFiles/Problem_54.txt') as f:
 
 print('Player 1:', p1Wins, 'Wins')
 print('Player 2:', p2Wins, 'Wins')
-
-
-
-
-
-
-
-
-
-
-
-
