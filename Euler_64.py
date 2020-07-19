@@ -1,6 +1,6 @@
 import math
 
-# https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Algorithm
+# https://en.wikipedia.org/w/index.php?title=Methods_of_computing_square_roots&oldid=927670414#Algorithm
 
 # returns a list of all coefficients of a simple continued fraction of the square root of nr
 def getCoefficients(nr):
